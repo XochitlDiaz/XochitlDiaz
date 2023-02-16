@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XochitlDiaz
 - 👀 I’m interested in bioinfo and web dev
-- 🌱 I’m currently learning genomic sciences
-- 📫 How to reach me: via email
+- 🌱 Genomic sciences undergraduate
+- 📫 How to reach me: dt.xochitl@gmail.com
 
 <!---
 XochitlDiaz/XochitlDiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
