@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XochitlDiaz
-- 👀 I do bioinformatics with an special drive to neurogenomics
-- 🌱 Genomic sciences undergraduate
+- 👀 I do bioinformatics with an special drive towards neurogenomics
+- 🌱 Genomic sciences undergraduate from the UNAM-LCGEJ | LIIGH program 
 - 📫 How to reach me: dt.xochitl@gmail.com
 
 <!---
