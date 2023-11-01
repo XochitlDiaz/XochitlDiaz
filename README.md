@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XochitlDiaz
-- 👀 I’m interested in bioinfo and web dev
+- 👀 I do bioinformatics with an special drive to neurogenomics
 - 🌱 Genomic sciences undergraduate
 - 📫 How to reach me: dt.xochitl@gmail.com
 
