@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @XochitlDiaz
-- 👀 I do bioinformatics with an special drive towards neurogenomics
-- 🌱 Genomic sciences undergraduate from the UNAM-LCGEJ | LIIGH program 
+- 🖥️ I do bioinformatics, specially multi-omics
+- 🧬 Bachelor of Genomic Sciences 2024 UNAM-LCGEJ | LIIGH program
+- 🧪 Soon... PhD candidate at UNSW
 - 📫 How to reach me: dt.xochitl@gmail.com
 
 <!---
