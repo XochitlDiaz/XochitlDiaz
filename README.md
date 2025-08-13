@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XochitlDiaz
 - 🖥️ Bioinformagician, specialized in single-cell and population genetics
 - 🧬 Bachelor of Genomic Sciences 2024 UNAM-LCGEJ | LIIGH program
-- 🧪 Soon... PhD candidate at UNSW
+- 🧪 PhD candidate at UNSW
 - 📫 How to reach me: dt.xochitl@gmail.com
 
 <!---
