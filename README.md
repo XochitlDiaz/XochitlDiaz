@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @XochitlDiaz
-- 🖥️ Bioinformagician, specialized in single-cell and population genetics
+I’m @XochitlDiaz
+- 🖥️ Bioinformatician with a focus on single-cell omics, population genetics and digital biomarkers
 - 🧬 Bachelor of Genomic Sciences 2024 UNAM-LCGEJ | LIIGH program
-- 🧪 PhD candidate at UNSW
+- 🧪 PhD candidate at UNSW | Garvan Institute of Medical Research
 - 📫 How to reach me: dt.xochitl@gmail.com
 
 <!---
